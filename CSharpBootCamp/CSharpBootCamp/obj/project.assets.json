@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Projects\\CSharpBootCamp\\CSharpBootCamp\\CSharpBootCamp.csproj",
+      "projectUniqueName": "E:\\C# Projects\\BootCampProjects\\CSharpBootCamp\\CSharpBootCamp\\CSharpBootCamp.csproj",
       "projectName": "CSharpBootCamp",
-      "projectPath": "E:\\C# Projects\\CSharpBootCamp\\CSharpBootCamp\\CSharpBootCamp.csproj",
+      "projectPath": "E:\\C# Projects\\BootCampProjects\\CSharpBootCamp\\CSharpBootCamp\\CSharpBootCamp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Projects\\CSharpBootCamp\\CSharpBootCamp\\obj\\",
+      "outputPath": "E:\\C# Projects\\BootCampProjects\\CSharpBootCamp\\CSharpBootCamp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
