@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSharpBootCamp/1.0.0": {
+        "runtime": {
+          "CSharpBootCamp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpBootCamp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
