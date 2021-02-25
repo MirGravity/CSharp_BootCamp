@@ -1,0 +1,13 @@
+E:\C# Projects\BootCampProjects\CSharpBootCamp\CSharpBootCamp\bin\Release\netcoreapp3.1\CSharpBootCamp.exe
+E:\C# Projects\BootCampProjects\CSharpBootCamp\CSharpBootCamp\bin\Release\netcoreapp3.1\CSharpBootCamp.deps.json
+E:\C# Projects\BootCampProjects\CSharpBootCamp\CSharpBootCamp\bin\Release\netcoreapp3.1\CSharpBootCamp.runtimeconfig.json
+E:\C# Projects\BootCampProjects\CSharpBootCamp\CSharpBootCamp\bin\Release\netcoreapp3.1\CSharpBootCamp.runtimeconfig.dev.json
+E:\C# Projects\BootCampProjects\CSharpBootCamp\CSharpBootCamp\bin\Release\netcoreapp3.1\CSharpBootCamp.dll
+E:\C# Projects\BootCampProjects\CSharpBootCamp\CSharpBootCamp\bin\Release\netcoreapp3.1\CSharpBootCamp.pdb
+E:\C# Projects\BootCampProjects\CSharpBootCamp\CSharpBootCamp\obj\Release\netcoreapp3.1\CSharpBootCamp.csprojAssemblyReference.cache
+E:\C# Projects\BootCampProjects\CSharpBootCamp\CSharpBootCamp\obj\Release\netcoreapp3.1\CSharpBootCamp.AssemblyInfoInputs.cache
+E:\C# Projects\BootCampProjects\CSharpBootCamp\CSharpBootCamp\obj\Release\netcoreapp3.1\CSharpBootCamp.AssemblyInfo.cs
+E:\C# Projects\BootCampProjects\CSharpBootCamp\CSharpBootCamp\obj\Release\netcoreapp3.1\CSharpBootCamp.csproj.CoreCompileInputs.cache
+E:\C# Projects\BootCampProjects\CSharpBootCamp\CSharpBootCamp\obj\Release\netcoreapp3.1\CSharpBootCamp.dll
+E:\C# Projects\BootCampProjects\CSharpBootCamp\CSharpBootCamp\obj\Release\netcoreapp3.1\CSharpBootCamp.pdb
+E:\C# Projects\BootCampProjects\CSharpBootCamp\CSharpBootCamp\obj\Release\netcoreapp3.1\CSharpBootCamp.genruntimeconfig.cache
